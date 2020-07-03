@@ -1,0 +1,80 @@
+/* Add here all your css styles (customizations) */
+html, body{
+	font-family: 'Montserrat', sans-serif;
+}
+.yellow-wings{
+	color: #E6DE0F;
+}
+.brd-yellow{
+	border-color: #E6DE0F;
+}
+.blue-wings{
+	color: #18608B;
+}
+.dark-blue-wings{
+	color: #204860;
+}
+.bg-dark-blue{
+	background: #204860;
+}
+.g-brd-primary{
+	border-color: #E6DE0F !important;
+}
+.dark-blue{
+	color: #204860;
+}
+.bg-blue-wings{
+	background: #18608B;
+}
+.bg-yellow-wings{
+	background: #E6DE0F;
+}
+.u-btn-primary{
+	background: #E6DE0F;
+}
+.mt100-neg{
+	margin-top: -120px;
+}
+.aspectos{
+	background: url(../../assets/img/aspectos.png);
+	background-size: cover;
+	padding-bottom: 85px;
+}
+.mr-t-20{
+	margin-top: 20px !important;
+}
+.ico-sz{
+	width: 60px;
+	height: auto;
+}
+.ico-sz-mn{
+	width: 40px;
+	height: auto;
+}
+.mr-t-30{
+	margin-top: 30px !important;
+}
+.desenho-asp{
+	margin-left: -25px;
+}
+.grupo-sq{
+	background: url(../../assets/img/grupo-sq.png);
+	background-size: cover;
+	padding-bottom: 200px;
+	background-position: center;
+	margin-top: -110px;
+}
+.numbers{
+	background: url(../../assets/img/numbers.png);
+	background-size: cover;
+	padding-bottom: 100px;
+}
+.bg-gray{
+	background: #F7F7F7;
+}
+.cor-borda{
+	border-color: #4E9AA1;
+}
+.btn{
+	font-size: 0.92857rem !important;
+}
