@@ -62,7 +62,17 @@ html, body{
 	background-size: cover;
 	padding-bottom: 200px;
 	background-position: center;
-	margin-top: -110px;
+	margin-top: -200px;
+}
+.funcionalidades{
+	margin-bottom: 100px;
+
+}
+.funcionalidades-after{
+	background: url(../../assets/img/bg-features.png);
+	background-size: cover;
+	min-height: 300px;
+	background-position: 0 0 ;
 }
 .numbers{
 	background: url(../../assets/img/numbers.png);
