@@ -88,7 +88,9 @@ html, body{
 .btn{
 	font-size: 0.92857rem !important;
 }
-
+.u-header__section--dark .navbar-nav:not([class*="u-main-nav-v"]) .open > .nav-link, .u-header__section--dark .navbar-nav:not([class*="u-main-nav-v"]) .active > .nav-link, .u-header__section--dark .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.open, .u-header__section--dark .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.active, .u-header__section--dark--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .open > .nav-link, .u-header__section--dark--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .active > .nav-link, .u-header__section--dark--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.open, .u-header__section--dark--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.active, .u-header__section--primary .navbar-nav:not([class*="u-main-nav-v"]) .open > .nav-link, .u-header__section--primary .navbar-nav:not([class*="u-main-nav-v"]) .active > .nav-link, .u-header__section--primary .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.open, .u-header__section--primary .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.active, .u-header__section--primary--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .open > .nav-link, .u-header__section--primary--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .active > .nav-link, .u-header__section--primary--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.open, .u-header__section--primary--shift.js-header-change-moment .navbar-nav:not([class*="u-main-nav-v"]) .nav-link.active{
+	color: #E6DE0F !important;
+}
 /*// Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) { 
 
